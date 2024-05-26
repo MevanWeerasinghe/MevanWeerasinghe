@@ -1,6 +1,6 @@
 ## Hi! 
 
-I'm [Your Name], a dedicated BICT student at the University of Sri Jayewardenepura, specializing in Software Technology. I'm passionate about web development and eager to leverage my skills in a challenging role.
+I'm Mevan Weerasinghe, a dedicated BICT student at the University of Sri Jayewardenepura, specializing in Software Technology. I'm passionate about web development and eager to leverage my skills in a challenging role.
 
 **Education**
 
@@ -20,6 +20,8 @@ I'm [Your Name], a dedicated BICT student at the University of Sri Jayewardenepu
 
 **Projects**
 
+* **EVENTIFY - ZOOM CLONE APPLICATION (2024 - Personal Project)**
+  Developed Eventify, a Zoom clone application with seamless meeting creation, scheduling, and recording functionalities, including screen sharing and collaborative tools inspired by Zoom. Leveraged Stream's video and audio API platform for real-time communication and integrated Clerk authentication for secure user management. Utilized Next.js, a React framework, for robust frontend development, ensuring a smooth user experience across the application
 * **WEBLING - REAL-TIME WEB CHAT APPLICATION (2024 - Personal Project)**
   Developed a real-time web chat application where users can sign in with their Gmail accounts, create profiles, and engage in group chats. Utilized React.js for the front end, Firebase for backend services, Firebase Firestore as the database, and Firebase Hosting for deployment.
 * **JAPURA EDGE - WEB ADVERTISING APPLICATION (2023 - Group Project)**
