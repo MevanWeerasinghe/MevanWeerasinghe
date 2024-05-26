@@ -16,6 +16,7 @@ I'm Mevan Weerasinghe, a dedicated BICT student at the University of Sri Jayewar
 * Runtime Environments: Node.js
 * JavaScript Libraries: React.js
 * Frameworks: Next.js, Express.js
+* Databases: MongoDB, SQL, MySQL
 * Styling Frameworks: Tailwind CSS
 
 **Projects**
